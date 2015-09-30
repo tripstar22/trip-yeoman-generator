@@ -1,0 +1,1 @@
+# trip-yeoman-generator
